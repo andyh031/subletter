@@ -1,6 +1,6 @@
 # Subletter
 
-![](https://github.com/andyh031/subletter/blob/main/milestones/milestone4/subletter.gif)
+![](https://github.com/andyh031/subletter/blob/main/subletter.gif)
 
 ### Developed By
 - Yu Cheng Li
